@@ -1,6 +1,8 @@
 # move-and-scale
 
-Pick a profile picture from your Photo Library or capture with your camera, then move and scale it until you find the best fit. 
+You can pick a profile picture from your Photo Library or capture with your camera, then move and scale it until you find the best fit. 
+
+This Swift app implements a UIImageVIew within a UIScrollView, and involves cropping and scaling methods.
 
 The following GIF demo show a photo is picked, then moved and scaled. Later the photo is removed and replaced by a placeholder photo.
 
