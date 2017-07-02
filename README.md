@@ -8,6 +8,6 @@ The following GIF demo show the user signed in, a photo is picked, then moved an
 
 ![jul-01-2017 17-37-08__10fps_take01](https://user-images.githubusercontent.com/1393085/27766482-f008614c-5e85-11e7-9410-5f0b30af45d1.gif)
 
-This GIF demo show a second photo was picked to replace the placeholder, and then move and scale to the best fit.
+This GIF demo show a second photo was picked to replace the placeholder, and then moved and scaled to the best fit.
 
 ![jul-01-2017 18-11-14__10fps_take02](https://user-images.githubusercontent.com/1393085/27766567-2c61e26e-5e89-11e7-9e69-4700e46b7544.gif)
