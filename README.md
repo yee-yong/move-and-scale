@@ -6,6 +6,6 @@ The following GIF demo show a photo is picked, then moved and sacled. Later the 
 
 ![jul-01-2017 17-37-08__10fps_take01](https://user-images.githubusercontent.com/1393085/27766482-f008614c-5e85-11e7-9410-5f0b30af45d1.gif)
 
-The following GIF demo show another photo was picked, and it was move and scale !
+This GIF demo show a second photo was picked to replace the placeholder, and then move and scale to the best fit.
 
 ![jul-01-2017 17-44-38__10fps_take02](https://user-images.githubusercontent.com/1393085/27766493-55da2294-5e86-11e7-8d8f-95e7580f4295.gif)
