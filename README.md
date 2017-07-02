@@ -4,7 +4,7 @@ You can pick a profile picture from your Photo Library or capture with your came
 
 This Swift app implements a UIImageVIew within a UIScrollView, and involves cropping and scaling methods.
 
-The following GIF demo show a photo is picked, then moved and scaled. Later the photo is removed and replaced by a placeholder photo.
+The following GIF demo show the user signed in, a photo is picked, then moved and scaled. Later the photo is removed and replaced by a placeholder photo.
 
 ![jul-01-2017 17-37-08__10fps_take01](https://user-images.githubusercontent.com/1393085/27766482-f008614c-5e85-11e7-9410-5f0b30af45d1.gif)
 
